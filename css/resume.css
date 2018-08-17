@@ -20,7 +20,7 @@ body {
 
 .parallax {
   /* The image used */
-  background-image: url("../img/back.jpg");
+  background-image: url("http://getwallpapers.com/wallpaper/full/2/e/9/24198.jpg");
   /* Set a specific height */
   height: 100%;
   /* Create the parallax scrolling effect */
@@ -85,7 +85,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #111010;
+  background-color: #000000;
 }
 
 .dev-icons {
@@ -93,7 +93,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #111010;
+  color: #000000;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -103,7 +103,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #383535;
+  outline-color: #262626;
 }
 
 @media (min-width: 992px) {
@@ -189,15 +189,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #111010 !important;
+  background-color: #000000 !important;
 }
 
 .text-primary {
-  color: #111010 !important;
+  color: #000000 !important;
 }
 
 a {
-  color: #111010;
+  color: #000000;
 }
 
 a:hover, a:focus, a:active {
