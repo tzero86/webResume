@@ -20,7 +20,7 @@ body {
 
 .parallax {
   /* The image used */
-  background-image: url("../img/adventure-alps-black-and-white-1146642.jpg");
+  background-image: url("../img/back.jpg");
   /* Set a specific height */
   height: 100%;
   /* Create the parallax scrolling effect */
@@ -85,7 +85,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #000000;
+  background-color: #111010;
 }
 
 .dev-icons {
@@ -93,7 +93,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #000000;
+  color: #111010;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -103,7 +103,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #262626;
+  outline-color: #383535;
 }
 
 @media (min-width: 992px) {
@@ -189,15 +189,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #000000 !important;
+  background-color: #111010 !important;
 }
 
 .text-primary {
-  color: #000000 !important;
+  color: #111010 !important;
 }
 
 a {
-  color: #000000;
+  color: #111010;
 }
 
 a:hover, a:focus, a:active {
